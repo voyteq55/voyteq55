@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hi, I'm Wojtek!<br><br>- 🔭 I’m studying Computer Science at the Wrocław University of Technology<br>- 📚 I'm currently focused on learning Spring framework</p>
+<p align="left">Hi, I'm Wojtek!<br><br>- 🔭 I’m studying Computer Science at Wrocław University of Science and Technology<br>- 📚 I'm currently focused on learning Spring framework</p>
 
 ###
 
