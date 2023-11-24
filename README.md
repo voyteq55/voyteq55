@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=voyteq55.voyteq55&"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=voyteq55.voyteq55&left_text=Profile%20views"  />
 
 ###
 
