@@ -4,6 +4,8 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=voyteq55.voyteq55&left_text=Profile%20views"  />
 
+<a href="https://wakatime.com/@9a175c6e-5311-4bcd-93c4-7c205d36f231"><img align="right" src="https://wakatime.com/badge/user/9a175c6e-5311-4bcd-93c4-7c205d36f231.svg" alt="Total time coded since Jul 21 2022" /></a>
+
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
