@@ -2,21 +2,19 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=voyteq55.voyteq55&left_text=Profile%20views"  />
-
 <a href="https://wakatime.com/@9a175c6e-5311-4bcd-93c4-7c205d36f231"><img align="right" src="https://wakatime.com/badge/user/9a175c6e-5311-4bcd-93c4-7c205d36f231.svg" alt="Total time coded since Jul 21 2022" /></a>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨🏻‍💻  About Me</h3>
 
 ###
 
-<p align="left">Hi, I'm Wojtek!<br><br>- 🔭 I’m studying Computer Science at Wrocław University of Science and Technology<br>- 📚 I'm currently focused on learning Spring framework</p>
+<p align="left">Hi, I'm Wojtek! (pronounced voy-teck)<br><br>- 📚 I’m studying Computer Science at Wrocław University of Science and Technology<br>- 👾 I'm a Full Stack Software Engineer currently working mostly with TypeScript</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and tools</h3>
 
 ###
 
@@ -29,7 +27,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
